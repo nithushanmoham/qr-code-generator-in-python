@@ -33,9 +33,21 @@ In an era dominated by digital connectivity, QR codes have become the linchpin o
 
 ## Scan this qr code and get the output.
 
-- Link Folder
+## Link Folder
 ![image](https://github.com/nithushanmoham/qr-code-generator-in-python/assets/106969157/d176466f-db3c-49fa-b9b1-685e2ff06e04)
 
-- Word Folder
+## Word Folder
 ![mycode](https://github.com/nithushanmoham/qr-code-generator-in-python/assets/106969157/15c3174f-4601-4e73-b09d-ee8c1874d239)
 
+## Setup
+
+- Install QrCode
+
+  ```
+    pip install qrcode
+  ```
+## Social Links
+
+- [Linkedin Profile](https://www.linkedin.com/in/nithushanmohan/)
+
+- [Facebook Profile](https://www.facebook.com/profile.php?id=100077725721945)
