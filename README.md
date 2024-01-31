@@ -13,11 +13,26 @@ In an era dominated by digital connectivity, QR codes have become the linchpin o
 
 - Security: Prioritize data security with encrypted QR codes, password protection, and expiration options for sensitive information.
 
+# Demos
+
+## How to changeing link and word
+
+## 1.Word and Link is changing yellow colour area
+
 ### Demo
+
+#### Link
+
+##### 1.![link](https://github.com/nithushanmoham/qr-code-generator-in-python/assets/106969157/11afd4bd-6ba0-4f19-b158-c46b3a187d60)
+
+#### Word
+
+##### 2. ![word](https://github.com/nithushanmoham/qr-code-generator-in-python/assets/106969157/67bc5309-cc0f-4f51-a600-9c16dca6df8d)
 
 #### Scan this qr code and get the output
 
 #### Link Folder
+
 ![image](https://github.com/nithushanmoham/qr-code-generator-in-python/assets/106969157/d176466f-db3c-49fa-b9b1-685e2ff06e04)
 
 ### Word Folder
