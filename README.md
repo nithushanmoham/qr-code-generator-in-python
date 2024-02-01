@@ -17,7 +17,7 @@ In an era dominated by digital connectivity, QR codes have become the linchpin o
 
 ### How to changing link and word.
 
-### Word and Link is changing yellow colour area.
+### Change the yellow colour area.
 
 ## 1. Demo
 
